@@ -1,4 +1,3 @@
-/* ===== VARIABLES ===== */
 :root {
   --primary: #6366f1;
   --primary-dark: #4f46e5;
@@ -16,7 +15,6 @@
   --shadow-glow: 0 0 40px rgba(99, 102, 241, 0.3);
 }
 
-/* ===== LOADING ===== */
 .loading-screen {
   min-height: 100vh;
   display: flex;
@@ -42,7 +40,6 @@
   }
 }
 
-/* ===== BUTTONS ===== */
 .btn-primary {
   background: var(--gradient-1);
   color: white;
@@ -92,7 +89,6 @@
   transform: translateY(-3px);
 }
 
-/* ===== FORMS ===== */
 .form-group {
   margin-bottom: 1.5rem;
 }
@@ -134,7 +130,6 @@
   border: 1px solid rgba(239, 68, 68, 0.2);
 }
 
-/* ===== NAVBAR ===== */
 .navbar {
   position: fixed;
   top: 0;
